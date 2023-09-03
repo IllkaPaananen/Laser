@@ -1,2 +1,2 @@
 # Laser
-Source code of the Laser (based on Titan Engine)
+Source code of Brawl Stars (codename Laser) (based on Titan Engine)
